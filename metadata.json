@@ -1,0 +1,5 @@
+{
+  "name": "Qwen3-ASR Android Deployer",
+  "description": "A deployment planner and code generator for running Qwen3-ASR offline on Android devices using Termux.",
+  "requestFramePermissions": []
+}
